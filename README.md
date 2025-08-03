@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/16730652.svg)]([https://doi.org/10.5281/zenodo.16730652])
+[![DOI](https://zenodo.org/badge/16730652.svg)](https://doi.org/10.5281/zenodo.16730652)
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.LWP_Vineyard_Features)<br>
 # LWP_Vineyard_Features
 This reporitory supports a peer-reviewed journal paper (Integrating Time-Series Meteorological Data and sUAS Information into a Machine Learning Framework for California Vineyard Water Stress Monitoring) showing a simplified model for California vineyard leaf water potential mapping. A subtitle or the main title is below.<br>
