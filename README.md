@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16730652.svg)](https://doi.org/10.5281/zenodo.16730652)
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.LWP_Vineyard_Features)<br>
 # LWP_Vineyard_Features
-This reporitory supports a peer-reviewed journal paper (Integrating Time-Series Meteorological Data and sUAS Information into a Machine Learning Framework for California Vineyard Water Stress Monitoring) showing a simplified model for California vineyard leaf water potential mapping. A subtitle or the main title is below.<br>
+This repository and another one ([LWP_Mapping_sUAS_California](https://github.com/RuiGao9/LWP_Mapping_sUAS_California)) support a peer-reviewed journal paper (Integrating Time-Series Meteorological Data and sUAS Information into a Machine Learning Framework for California Vineyard Water Stress Monitoring) showing a simplified model for California vineyard leaf water potential mapping. A subtitle or the main title is below.<br>
 In this repository, we provided:
 1. `INput_data`, a folder contains demo data. `Demo_INput_TIR.tif` is the temperature image (in Celsius) obtained from the AggieAir sUAS. `Demo_Input_VNIR.tif` is the multi-spectral image (red, green, blue, and near-infrared).
 2. `main_program.ipynb` is the main program, which is a simplifed model from the research **Integrating Time-Series Meteorological Data and sUAS Information into a Machine Learning Framework for California Vineyard Water Stress Monitoring**.
@@ -19,6 +19,7 @@ In this repository, we provided:
 ## Citation 
 If you use this repository in your work, please cite following DOIs:<br>
 [![DOI](https://zenodo.org/badge/DOI/10.1007/s00271-022-00776-0.svg)](https://doi.org/10.1007/s00271-022-00776-0)<br>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16730652.svg)](https://doi.org/10.5281/zenodo.16730652)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15885589.svg)](https://doi.org/10.5281/zenodo.15885589)
 
 **BibTeX:**
@@ -30,6 +31,16 @@ If you use this repository in your work, please cite following DOIs:<br>
   publisher    = {Irrigation Science},
   doi          = {10.XXXXXXX},
   url          = {https://doi.org/10.XXXXXXX}
+}
+```
+```
+@misc{gao2025lwpfeature,
+  author       = {Rui Gao, Alfonso Torres-Rua},
+  title        = {Feature Extraction From the High-resolution AggieAir Images for Leaf Water Potential Estimation in California Vineyards},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.16730652},
+  url          = {https://doi.org/10.5281/zenodo.16730652}
 }
 ```
 ```bibtex
