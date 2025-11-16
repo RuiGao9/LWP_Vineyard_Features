@@ -18,7 +18,7 @@ In this repository, we provided:
 
 ## Citation 
 If you use this repository in your work, please cite the following DOIs:<br>
-[![DOI](https://zenodo.org/badge/DOI/10.1007/s00271-022-00776-0.svg)](https://doi.org/10.1007/s00271-022-00776-0)<br>
+[![DOI](https://zenodo.org/badge/DOI/10.21203/rs.3.rs-7952103/v1.svg)](https://doi.org/10.10.21203/rs.3.rs-7952103/v1)<br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16730652.svg)](https://doi.org/10.5281/zenodo.16730652)<br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15885589.svg)](https://doi.org/10.5281/zenodo.15885589)
 
