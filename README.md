@@ -17,7 +17,7 @@ In this repository, we provided:
 <sup>3</sup>Valley Institute for Sustainable Technology & Agriculture, University of California, Merced, CA 95343, USA<br>
 
 ## Citation 
-If you use this repository in your work, please cite following DOIs:<br>
+If you use this repository in your work, please cite the following DOIs:<br>
 [![DOI](https://zenodo.org/badge/DOI/10.1007/s00271-022-00776-0.svg)](https://doi.org/10.1007/s00271-022-00776-0)<br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16730652.svg)](https://doi.org/10.5281/zenodo.16730652)<br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15885589.svg)](https://doi.org/10.5281/zenodo.15885589)
@@ -29,8 +29,8 @@ If you use this repository in your work, please cite following DOIs:<br>
   title        = {Integrating Time-Series Meteorological Data and sUAS Information into a Machine Learning Framework for California Vineyard Water Stress Monitoring},
   year         = {2025},
   publisher    = {Irrigation Science},
-  doi          = {10.XXXXXXX},
-  url          = {https://doi.org/10.XXXXXXX}
+  doi          = {10.21203/rs.3.rs-7952103/v1},
+  url          = {https://doi.org/10.21203/rs.3.rs-7952103/v1}
 }
 ```
 ```bibtex
