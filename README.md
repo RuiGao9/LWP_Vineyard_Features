@@ -54,8 +54,6 @@ If you use this repository in your work, please consider following reference/DOI
   publisher    = {Irrigation Science},
   doi          = {10.21203/rs.3.rs-7952103/v1},
   url          = {https://doi.org/10.21203/rs.3.rs-7952103/v1}
-  doi          = {10.21203/rs.3.rs-7952103/v1},
-  url          = {https://doi.org/10.21203/rs.3.rs-7952103/v1}
 }
 ```
 ```bibtex
