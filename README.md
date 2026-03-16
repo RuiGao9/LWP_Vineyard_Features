@@ -2,7 +2,7 @@
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.LWP_Vineyard_Features)<br>
 
 # LWP_Vineyard_Features
-This repository and another one ([LWP_Mapping_sUAS_California](https://github.com/RuiGao9/LWP_Mapping_sUAS_California)) support a peer-reviewed journal paper (A machine learning framework for California vineyard water status monitoring using sUAS Imagery and short-term meteorological data) showing a simplified model for California vineyard leaf water potential mapping. A subtitle or the main title is below.<br>
+This repository and another one ([LWP_Mapping_sUAS_California](https://github.com/RuiGao9/LWP_Mapping_sUAS_California)) support a peer-reviewed journal paper published in *Irrigation Science* (A machine learning framework for California vineyard water status monitoring using sUAS Imagery and short-term meteorological data) showing a simplified model for California vineyard leaf water potential mapping. A subtitle or the main title is below.<br>
 In this repository, we provided:
 - `1_Data`, a folder contains materials that support running the Python program.<br>
   - This folder contains three images: (1) “Demo_DSM.tif” is the digital surface model data with 0.15 m resolution in the unit of meter. (2) “Demo_RGBNIR.tif” is the spectral image with red, green, blue, and near-infrared bands at 0.15 m resolution and a value range between 0 and 10,000; and (3) “Demo_TIR.tif” is the thermal image with 0.60 m resolution in the unit of degrees Celsius (Cº).
