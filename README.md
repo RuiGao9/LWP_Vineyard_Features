@@ -48,12 +48,12 @@ If you use this repository in your work, please consider following reference/DOI
 **BibTeX:**
 ```bibtex
 @misc{gao2025lwpis,
-  author       = {Rui Gao, Mimar, Alfonso Torres-Rua},
-  title        = {Integrating Time-Series Meteorological Data and sUAS Information into a Machine Learning Framework for California Vineyard Water Stress Monitoring},
-  year         = {2025},
+  author       = {Rui Gao, Maria Mar Alsina, Alfonso Torres-Rua, Lawrence Hipps, William P. Kustas, Martha Anderson, Héctor Nieto, Andrew J. McElrone, Kyle Knipper, Nicolas Bambach Ortiz, Sebastian J. Castro, John H. Prueger, Joseph Alfieri, Lynn G McKee, William A. White, Feng Gao, Calvin Coopmans, Ian Gowing, Nurit Agam, Luis Sanchez, Nick Dokoozlian},
+  title        = {A machine learning framework for California vineyard water status monitoring using sUAS imagery and short-term meteorological data},
+  year         = {2026},
   publisher    = {Irrigation Science},
-  doi          = {10.21203/rs.3.rs-7952103/v1},
-  url          = {https://doi.org/10.21203/rs.3.rs-7952103/v1}
+  doi          = {https://doi.org/10.1007/s00271-026-01102-8},
+  url          = {https://link.springer.com/article/10.1007/s00271-026-01102-8#citeas}
 }
 ```
 ```bibtex
