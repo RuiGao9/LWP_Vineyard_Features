@@ -2,7 +2,7 @@
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.LWP_Vineyard_Features)<br>
 
 # LWP_Vineyard_Features
-This repository and another one ([LWP_Mapping_sUAS_California](https://github.com/RuiGao9/LWP_Mapping_sUAS_California)) support a peer-reviewed journal paper (A Machine Learning Framework for California Vineyard Water Status Monitoring Using sUAS Imagery and Meteorological Time Series from the Prior 24 Hours) showing a simplified model for California vineyard leaf water potential mapping. A subtitle or the main title is below.<br>
+This repository and another one ([LWP_Mapping_sUAS_California](https://github.com/RuiGao9/LWP_Mapping_sUAS_California)) support a peer-reviewed journal paper (A machine learning framework for California vineyard water status monitoring using sUAS Imagery and short-term meteorological data) showing a simplified model for California vineyard leaf water potential mapping. A subtitle or the main title is below.<br>
 In this repository, we provided:
 - `1_Data`, a folder contains materials that support running the Python program.<br>
   - This folder contains three images: (1) “Demo_DSM.tif” is the digital surface model data with 0.15 m resolution in the unit of meter. (2) “Demo_RGBNIR.tif” is the spectral image with red, green, blue, and near-infrared bands at 0.15 m resolution and a value range between 0 and 10,000; and (3) “Demo_TIR.tif” is the thermal image with 0.60 m resolution in the unit of degrees Celsius (Cº).
@@ -40,7 +40,7 @@ Among all the results, the “CSV” file is the final result containing coordin
 
 ## Citation 
 If you use this repository in your work, please consider following reference/DOIs:<br>
-[![DOI](https://zenodo.org/badge/DOI/10.21203/rs.3.rs-7952103/v1.svg)](https://doi.org/10.21203/rs.3.rs-7952103/v1)<br>
+[![DOI](https://zenodo.org/badge/DOI/10.1007/s00271-026-01102-8.svg)](https://doi.org/10.1007/s00271-026-01102-8)<br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16730652.svg)](https://doi.org/10.5281/zenodo.16730652)<br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15885589.svg)](https://doi.org/10.5281/zenodo.15885589)<br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18305013.svg)](https://doi.org/10.5281/zenodo.18305013)
