@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16730652.svg)](https://doi.org/10.5281/zenodo.16730652)
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.LWP_Vineyard_Features)<br>
 
-# LWP_Vineyard_Features
+## Feature Extraction from the High-resolution AggieAir Images for Leaf Water Potential Estimation in California Vineyards
 This repository and another one ([LWP_Mapping_sUAS_California](https://github.com/RuiGao9/LWP_Mapping_sUAS_California)) support a peer-reviewed journal paper published in *Irrigation Science* (A machine learning framework for California vineyard water status monitoring using sUAS Imagery and short-term meteorological data) showing a simplified model for California vineyard leaf water potential mapping. A subtitle or the main title is below.<br>
 In this repository, we provided:
 - `1_Data`, a folder contains materials that support running the Python program.<br>
@@ -31,19 +31,13 @@ Among all the results, the “CSV” file is the final result containing coordin
   - VARI: visible atmospherically resistant index calculated based on the R, G, and B bands;
   - Tr: temperature from the thermal band (Celsius);
 
-## Feature Extraction from the High-resolution AggieAir Images for Leaf Water Potential Estimation in California Vineyards
-
-<p align="center">Rui Gao<sup>1,2,3</sup>, Alfonso Torres-Rua<sup>1</sup></p>
-<sup>1</sup>Department of Civil and Environmental Engineering, Utah State University, Logan, UT 84321, USA<br>
-<sup>2</sup>Department of Civil and Environmental Engineering, University of California, Merced, CA 95343, USA<br>
-<sup>3</sup>Valley Institute for Sustainable Technology & Agriculture, University of California, Merced, CA 95343, USA<br>
+## Reference
+Gao, R., Alsina, M. M., Torres-Rua, A. F., Hipps, L., Kustas, W. P., Anderson, M., ... & Dokoozlian, N. (2026). A machine learning framework for California vineyard water status monitoring using sUAS Imagery and short-term meteorological data. Irrigation Science, 44(3), 60.<br>
+Gao, R., Torres-Rua, A., & Alsina, M. M. (2025). A Simplified Model for California Grapevine Leaf Water Potential Mapping at the Field Scale Based on a Machine Learning Approach (v0.0.1). Zenodo. https://doi.org/10.5281/zenodo.15885590
+Gao, R., & Torres-Rua, A. (2025). Feature Extraction from the High-resolution AggieAir Images for Leaf Water Potential Estimation in California Vineyards (Initial). Zenodo. https://doi.org/10.5281/zenodo.16730652
 
 ## Citation 
 If you use this repository in your work, please consider following reference/DOIs:<br>
-[![DOI](https://zenodo.org/badge/DOI/10.1007/s00271-026-01102-8.svg)](https://doi.org/10.1007/s00271-026-01102-8)<br>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16730652.svg)](https://doi.org/10.5281/zenodo.16730652)<br>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15885589.svg)](https://doi.org/10.5281/zenodo.15885589)<br>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18305013.svg)](https://doi.org/10.5281/zenodo.18305013)
 
 **BibTeX:**
 ```bibtex
@@ -53,7 +47,7 @@ If you use this repository in your work, please consider following reference/DOI
   year         = {2026},
   publisher    = {Irrigation Science},
   doi          = {https://doi.org/10.1007/s00271-026-01102-8},
-  url          = {https://link.springer.com/article/10.1007/s00271-026-01102-8#citeas}
+  url          = {https://link.springer.com/article/10.1007/s00271-026-01102-8}
 }
 ```
 ```bibtex
@@ -64,26 +58,6 @@ If you use this repository in your work, please consider following reference/DOI
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.16730652},
   url          = {https://doi.org/10.5281/zenodo.16730652}
-}
-```
-```bibtex
-@misc{gao2025lwpmap,
-  author       = {Rui Gao, Alfonso Torres-Rua, Maria Mar Alsina},
-  title        = {A Simplified Model for California Grapevine Leaf Water Potential Mapping at the Field Scale Based on a Machine Learning Approach},
-  year         = {2025},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.15885589},
-  url          = {https://doi.org/10.5281/zenodo.15885589}
-}
-```
-```bibtex
-@misc{gao2026windex,
-  author       = {Rui Gao, Alfonso Torres-Rua, Mohammad Safeeq, and Joshua H. Viers},
-  title        = {A Python Tool for Winkler Index Calculation based on Hourly Air Temperature Records},
-  year         = {2026},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18305013},
-  url          = {https://doi.org/10.5281/zenodo.18305013}
 }
 ```
 
