@@ -32,8 +32,8 @@ Among all the results, the “CSV” file is the final result containing coordin
   - Tr: temperature from the thermal band (Celsius);
 
 ## Reference
-Gao, R., Alsina, M. M., Torres-Rua, A. F., Hipps, L., Kustas, W. P., Anderson, M., ... & Dokoozlian, N. (2026). A machine learning framework for California vineyard water status monitoring using sUAS Imagery and short-term meteorological data. Irrigation Science, 44(3), 60.<br>
-Gao, R., Torres-Rua, A., & Alsina, M. M. (2025). A Simplified Model for California Grapevine Leaf Water Potential Mapping at the Field Scale Based on a Machine Learning Approach (v0.0.1). Zenodo. https://doi.org/10.5281/zenodo.15885590
+Gao, R., Alsina, M. M., Torres-Rua, A. F., Hipps, L., Kustas, W. P., Anderson, M., ... & Dokoozlian, N. (2026). A machine learning framework for California vineyard water status monitoring using sUAS Imagery and short-term meteorological data. Irrigation Science, 44(3), 60. https://doi.org/10.1007/s00271-026-01102-8<br>
+Gao, R., Torres-Rua, A., & Alsina, M. M. (2025). A Simplified Model for California Grapevine Leaf Water Potential Mapping at the Field Scale Based on a Machine Learning Approach (v0.0.1). Zenodo. https://doi.org/10.5281/zenodo.15885590 <br>
 Gao, R., & Torres-Rua, A. (2025). Feature Extraction from the High-resolution AggieAir Images for Leaf Water Potential Estimation in California Vineyards (Initial). Zenodo. https://doi.org/10.5281/zenodo.16730652
 
 ## Citation 
