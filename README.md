@@ -33,8 +33,7 @@ Among all the results, the “CSV” file is the final result containing coordin
 
 ## Reference
 Gao, R., Alsina, M. M., Torres-Rua, A. F., Hipps, L., Kustas, W. P., Anderson, M., ... & Dokoozlian, N. (2026). A machine learning framework for California vineyard water status monitoring using sUAS Imagery and short-term meteorological data. Irrigation Science, 44(3), 60. https://doi.org/10.1007/s00271-026-01102-8<br>
-Gao, R., Torres-Rua, A., & Alsina, M. M. (2025). A Simplified Model for California Grapevine Leaf Water Potential Mapping at the Field Scale Based on a Machine Learning Approach (v0.0.1). Zenodo. https://doi.org/10.5281/zenodo.15885590 <br>
-Gao, R., & Torres-Rua, A. (2025). Feature Extraction from the High-resolution AggieAir Images for Leaf Water Potential Estimation in California Vineyards (Initial). Zenodo. https://doi.org/10.5281/zenodo.16730652
+Gao, R., Torres-Rua, A., & Alsina, M. M. (2025). A Simplified Model for California Grapevine Leaf Water Potential Mapping at the Field Scale Based on a Machine Learning Approach (v0.0.1). Zenodo. https://doi.org/10.5281/zenodo.15885590
 
 ## Citation 
 If you use this repository in your work, please consider following reference/DOIs:<br>
@@ -62,6 +61,5 @@ If you use this repository in your work, please consider following reference/DOI
 ```
 
 ## Contact info
-Rui.Ray.Gao@Gmail.com<br>
-RuiGao@USU.edu<br>
-RuiGao@UCMerced.edu
+Any found issues are appreciated to contact Rui at
+Rui.Ray.Gao@Gmail.com
